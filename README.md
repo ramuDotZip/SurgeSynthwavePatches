@@ -9,17 +9,26 @@ A classic synthwave bass sound. The "Ramp" macro controls an LFO that ramps up i
 **Anything Pluck Lead**  
 A simple but versatile synth pluck sound.
 
+**Considerable Cutting Implement**  
+I was running out of ways to say "supersaw", and well, this one isn't exactly super, but it is considerable. It's quite similar to GarageBand's "Anthemic Lead" in that it's polyphonic and has a sidechain-like ramp, making it good for playing chords. For better usage as a lead instrument, though, set it to monophonic instead.
+
 **Contrabrass**  
 A brass stab that can be used as a bass or a lead. Some other useful parameters not included in the macros:
 - Amp EG Release (Lower values ~0.2s work better for a bass, and higher values ~1s work better for a lead)
 - Osc 1/2 Level
 - Filter 1 Resonance
 
+**Hot Saw Lead**  
+A strong saw-square lead with a bit of supersaw behind it, and a bit of vibrato and portamento as well.
+
 **Mellow Saw**  
 A calm lead instrument with a timbre somewhere between a saw and a talk box.
 
 **Super Simple Supersaw**  
 I couldn't decide on a simple saw or a supersaw so I made one that was both. The "Simple / Super" macro changes the mix between them.
+
+**Theremin**  
+It is, in fact, a theremin. Includes vibrato, portamento, and reverb, as well as some extra macros to change its timbre.
 
 **Full Orchestra**  
 A pad with a rich texture resembling an orchestra. This one's not quite as useful for synthwave, but it still sounds pretty cool.
