@@ -10,7 +10,7 @@ A classic synthwave bass sound. The "Ramp" macro controls an LFO that ramps up i
 A simple but versatile synth pluck sound.
 
 **Considerable Cutting Implement**  
-I was running out of ways to say "supersaw", and well, this one isn't exactly super, but it is considerable. It's quite similar to GarageBand's "Anthemic Lead" in that it's polyphonic and has a sidechain-like ramp, making it good for playing chords. For better usage as a lead instrument, though, set it to monophonic instead.
+I was running out of ways to say "supersaw", and well, this one is rather considerable. Out of all the supersaws I've made, this is certainly one of them. It's quite similar to GarageBand's "Anthemic Lead" in that it's polyphonic and has a sidechain-like ramp, making it good for playing chords. For better usage as a lead instrument, you can set it to monophonic instead. Besides the macros, you can also change the timbre with the Waveshaper Drive or by changing the mix of oscillators 1, 2, and 3. The shape of the ramp can be changed with S-LFO 1 Deform, with lower values increasing more slowly and steadily, and higher values having a sharper transition. And lastly, I wasn't able to route this anywhere nice, but if you want to change the inflection point of the ramp curve (sort of like the duty cycle) then you can open the formula editor and change the value of the "inflection" variable.
 
 **Contrabrass**  
 A brass stab that can be used as a bass or a lead. Some other useful parameters not included in the macros:
@@ -28,10 +28,10 @@ A calm lead instrument with a timbre somewhere between a saw and a talk box.
 I couldn't decide on a simple saw or a supersaw so I made one that was both. The "Simple / Super" macro changes the mix between them.
 
 **Theremin**  
-It is, in fact, a theremin. Includes vibrato, portamento, and reverb, as well as some extra macros to change its timbre.
+It is, in fact, a theremin. Includes vibrato, portamento, and reverb, as well as some extra macros to change its timbre. You can get a nice clean glissando by temporarily decreasing the vibrato and increasing the portamento.
 
 **Full Orchestra**  
-A pad with a rich texture resembling an orchestra. This one's not quite as useful for synthwave, but it still sounds pretty cool.
+A pad with a rich texture resembling an orchestra. This one's typically better suited to be in the background as a sort of secret sauce, barely noticeable, but giving some nice flavor to the quiet parts of a song.
 
 **Through the Clouds**  
 Another classic synthwave sound, this one is best used when playing a chord on every 16th note. Like The Wave, it has a volume ramp to simulate sidechain compression. The Deform parameter on S-LFO 1 can be used to change the shape of the ramp, with negative values increasing quickly and tapering off, and positive values increasing more slowly and linearly. It's easy for this sound to interfere with the bass, so it has a high pass filter that can be controlled by the "Low Cut" macro. One technique I like to use with this one is to slowly increase the Cutoff with an automation to build up to a minor climax, and then quickly bring the Unison up to 75-100% as the Cutoff drops back down, making the bright, tense sound almost seem to dissolve away.
